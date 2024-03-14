@@ -4,3 +4,7 @@
 ~> gcloud auth application-default login
 
 ```
+#### Initialise terraform state file with:
+```zsh
+~> terraform init
+``` 
